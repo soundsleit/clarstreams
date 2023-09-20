@@ -1,5 +1,5 @@
 # clarstreams
-A clarinet noise texture generator
+Chuck laptop instrument: A clarinet noise texture generator
 
 This creates noise textures using a clarinet model.  Use keyboard to change texture in various ways, including several steps of volume fading in/out.
 
